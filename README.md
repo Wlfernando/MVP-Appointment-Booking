@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This Project is a demonstration about to handle differents systems to create an Appointment booking to handle the actors client, stylist, admin, and advanced development, the establishment.
+This Project is a demonstration about to handle differents systems to create an Appointment booking to organize the actors client, stylist, admin, and advanced development, the establishment.
 
 ## Domain Requirements
 
