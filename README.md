@@ -35,3 +35,5 @@ Initially, our focus will be on the beauty sector, helping businesses manage ser
   3. Business hours
   4. Booking rules
   5. Time to clean the space is not the same with each service-dependent
+
+## Architecture Knowledge Management (AKM)
