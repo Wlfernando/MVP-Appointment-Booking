@@ -6,7 +6,7 @@ This Project is a demonstration about a marketplace to handle differents systems
 
 ## Scope
 
-Initially, our focus will be on the beauty sector, helping businesses manage service bookings. This approach aims to facilitate engagement with new clients and minimize no-shows. Since the app is a demo, the business model should offer the software for free for the next four months, and then charge a fee per appointment. The rollout will start in CDMX, integrating establishments and stylists. The system should account for the fact that users are reluctant to download a standalone app for a single task, and instead prioritize systems integration for the beauty sector.
+Initially, our focus will be on the Hair Staylist Sector, helping businesses manage service bookings. This approach aims to facilitate engagement with new clients and minimize no-shows. Since the app is a demo, the business model should offer the software for free for the next four months, and then charge a fee per appointment. The rollout will start in CDMX, integrating establishments and stylists. The system should account for the fact that users are reluctant to download a standalone app for a single task, and instead prioritize systems integration for the beauty sector.
 
 ## Domain Requirements
 
