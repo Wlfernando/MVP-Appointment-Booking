@@ -52,3 +52,15 @@ Initially, our focus will be on the beauty sector, helping businesses manage ser
 12. Track client no-shows
 
 ## Architecture Knowledge Management (AKM)
+
+## Sub-systems
+
+### Service Catalog
+
+#### Beauty Salon
+
+1. Hair Stylist: Haircuts, coloring, styling, and hair treatments such as deep conditioning, hair Botox, keratin straightening, and perms to repair or change your hair's texture.
+2. Beauty and Aesthetics Services: Manicures, pedicures, professional makeup, and eyebrow shaping.
+3. Facial and Body Care: Facials, relaxing massages, hair removal (waxing or laser), and exfoliating treatments.
+4. Specialized Barbering Services: Beard shaping, classic straight-razor shave with hot towel, and hydrating facial rituals for men.
+5. Image Consulting: Personalized consultations to help you select the perfect haircuts, colors, and products tailored to your face shape and hair type.
