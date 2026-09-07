@@ -36,4 +36,19 @@ Initially, our focus will be on the beauty sector, helping businesses manage ser
   4. Booking rules
   5. Time to clean the space is not the same with each service-dependent
 
+## Tecnical Requirements
+
+1. Save the worker's profile in the database.
+2. Link the worker's schedule to the availability of services offered by the business.
+3. Mark appointments as pending, awaiting deposit, waitlist, expired, or completed.
+4. Process payments on the platform.
+5. Display the services. When one is selected, show the available time slots for an appointment.
+6. Update only the status of an appointment.
+7. For appointments scheduled more than two days in advance, send a reminder one day before the appointment.
+8. View the daily schedule.
+9. Create an appointment directly for the admin's own business.
+10. Configure the business schedule.
+11. Save the business location.
+12. Track client no-shows
+
 ## Architecture Knowledge Management (AKM)
