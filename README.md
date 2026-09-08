@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This Project is a demonstration about a marketplace to handle differents systems to create an Appointment booking to organize the actors client, stylist, admin, and the establishment in advanced development.
+This Project is a demonstration about a marketplace to handle differents systems like service catalog, profesional systems, resources system, schedule, and availability engine to create an Appointment booking to organize the actors client, stylist, admin, and the establishment in advanced development.
 
 ## Scope
 
